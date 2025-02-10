@@ -25,8 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<img src="{{ site.baseurl }}/assets/img/mail.png" alt="Icon" width="20"> <giuliarocco209@gmail.com>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a biomedical engineer specializing in non-invasive **neuroimaging** and **biomedical signal processing** for functional brain mapping using functional Near-Infrared Spectroscopy (**fNIRS**), functional Magnetic Resonance Imaging (**fMRI**), and Electroencephalography (**EEG**). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a **Marie Curie Doctoral Fellow** at Université Côte d’Azur (France), I conducted studies that pioneered the use of non-invasive multimodal imaging to explore the cerebellum. My research has been recognized by grants and international awards, including first place in the [Falling Walls Lab MSCA 2021](https://marie-sklodowska-curie-actions.ec.europa.eu/event/falling-walls-lab-msca-2021) with the opportunity to attend the Science Summit in Berlin being featured as one of the 75 [International Emerging Talents](https://apply.falling-walls.com/people/giulia-rocco/).
+
+My experience spans leading **international research** institutions, including Politecnico di Milano (Italy) and Concordia University (Canada), and diverse domains, from **neuroscience** to **psychophysics** and **wearable** technology. I have contributed to projects that have implemented novel speech intelligibility tests, assessed heart rate variability, electrodermal activity and eye tracking for applications ranging from stress and emotion detection to biomarketing and virtual-reality-based therapy.
+
+Proficient in **multimodal data analysis**, I use advanced quantitative methods, including high-dimensional **time-series** modeling, **frequency domain** analysis, **regression models**, and **inverse problems** for **source reconstruction**. I am a fast learner with a proven ability to design and execute complex **experimental research** studies across **interdisciplinary teams**.
+
+<!-- Passionate about science communication, I deliver talks, workshops, and presentations, making complex scientific topics accessible to diverse audiences. I effectively communicate technical concepts, engaging with academic and non-specialist communities to foster scientific and industrial collaboration. -->
+
+If you’d like to collaborate or learn more about my research, feel free to reach out!
