@@ -9,7 +9,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
 
 <img src="{{ site.baseurl }}/assets/img/mail.png" alt="Icon" width="20"> <giuliarocco209@gmail.com>
 
-I am a biomedical engineer specializing in non-invasive **neuroimaging** and **biomedical signal processing** for functional brain mapping using functional Near-Infrared Spectroscopy (**fNIRS**), functional Magnetic Resonance Imaging (**fMRI**), and Electroencephalography (**EEG**). 
+I am a biomedical engineer specializing in non-invasive **neuroimaging** and **biomedical signal processing** for functional brain mapping using functional Near-Infrared Spectroscopy (**fNIRS**), functional Magnetic Resonance Imaging (**fMRI**), and Electroencephalography (**EEG**).
 
 As a **Marie Curie Doctoral Fellow** at Université Côte d’Azur (France), I conducted studies that pioneered the use of non-invasive multimodal imaging to explore the cerebellum. My research has been recognized by grants and international awards, including first place in the [Falling Walls Lab MSCA 2021](https://marie-sklodowska-curie-actions.ec.europa.eu/event/falling-walls-lab-msca-2021) with the opportunity to attend the Science Summit in Berlin being featured as one of the 75 [International Emerging Talents](https://apply.falling-walls.com/people/giulia-rocco/).
 
