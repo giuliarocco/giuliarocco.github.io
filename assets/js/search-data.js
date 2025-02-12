@@ -396,16 +396,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-successfully-defended-my-phd-thesis-multimodal-functional-exploration-of-the-cerebellum-and-earned-the-title-of-doctor-in-automatics-signal-and-image-processing-mortar-board-you-can-watch-the-phd-viva-here",
+          title: 'I successfully defended my PhD thesis “Multimodal Functional Exploration of the Cerebellum” and...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-had-the-pleasure-to-be-invited-as-a-keynote-speaker-at-the-rwth-nirx-fnirs-workshop-from-best-practices-to-high-end-applications-at-the-university-hospital-rwth-aachen-i-gave-a-talk-on-simultaneous-fnirs-fmri-recordings-of-the-cerebellum-woman-technologist",
+          title: 'I had the pleasure to be invited as a keynote speaker at the...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-had-the-opportunity-to-present-our-work-enhancing-cerebellar-fnirs-fmri-via-tailored-pipelines-which-was-accepted-as-an-oral-talk-at-the-biennial-meeting-of-the-society-of-functional-near-infrared-spectroscopy-sfnirs-2024-in-birmingham-uk-brain",
+          title: 'I had the opportunity to present our work Enhancing cerebellar fNIRS/fMRI via tailored...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
