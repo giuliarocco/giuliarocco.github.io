@@ -1,9 +1,33 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"AJA":
+  color: "#d30f0f"
 
 "PhysRev":
   url: https://journals.aps.org/
 
 "Vision":
   color: "#009f36"
+  url: https://journals.aps.org/
+
+"pHealth":
+  color: "#0ac84d"
+
+"fNIRS":
+  color: "#f46a36"
+
+"IEEE ISBI":
+  color: "#36eef4"
+
+"Appl Sci":
+  color: "#04149f"
+
+"Acta Physiol":
+  color: "#54049f"
+
+"MEDICON":
+  color: "#02b990"
+
+"SophI.A":
+  color: "#6cccff"
+
+"Master thesis":
+  color: "#ffbf2b"
