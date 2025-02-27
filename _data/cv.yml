@@ -2,96 +2,168 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Giulia Rocco
+    - name: Title
+      value: PhD, Multimodal Neuroimaging & Signal Processing Expert
+    - name: Email
+      value: giuliarocco209@gmail.com
     - name: Languages
-      value: English, German
+      value: Italian (Native), English (Fluent), French (Fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD Marie Curie Fellow in Automatics, Signal and Image Processing
+      institution: Université Côte d'Azur, Nice, France
+      year: 2020 - 2023
+      maindescription: "Thesis title: Multimodal Functional Exploration of the Cerebellum"
 
-- title: Experience
+    - title: Master Thesis Abroad
+      institution: Katholieke Universiteit Leuven, Leuven, Belgium
+      year: 2017 - 2018
+      maindescription: "Thesis title: Design and implementation of a language-independent speech intelligibility test"
+
+    - title: Exchange Program Erasmus+
+      institution: Kungliga Tekniska Högskolan, Stockholm, Sweden
+      year: 2016 - 2017
+
+    - title: Master’s Degree in Biomedical Engineering - Technologies for Electronics
+      institution: Politecnico di Milano, Milan, Italy
+      year: 2015 - 2018
+      maindescription: "Grade: 110/110"
+
+    - title: Bachelor’s Degree in Biomedical Engineering
+      institution: Politecnico di Milano, Milan, Italy
+      year: 2012 - 2015
+      maindescription: "Thesis title: Validation and Automated Hard Tissue Segmentation for CBCT Data - Grade: 102/110"
+
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: I3S Laboratory and University Hospital of Nice, France
+      year: 2020 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Conducted multimodal data collection and analysis using fMRI, fNIRS, and EEG with adults and high-potential children.
+        - Focused on cerebellar function and structure, contributing to multiple publications.
+        - Managed subjects, budgets, and data across multiple institutions.
+
+    - title: PhD Intern
+      workplace: NIRx Medical Technologies, Berlin, Germany
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Assisted in daily operations within the Customer Success Department.
+        - Documented technical aspects relevant to simultaneous fNIRS and fMRI acquisitions.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Visiting Researcher
+      institution: Concordia University, Montreal, Canada
+      year: 2022
       description:
+        - Led data collection and management for multimodal neuroimaging projects.
+        - Analyzed data using advance methods for source reconstruction (inverse problems).
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Teaching Assistant
+      institution: Université Côte d'Azur, Nice, France
+      year: 2020
+      description:
+        - Assisted in teaching Algorithms & Programming with R through practical sessions and assignments.
 
-- title: Open Source Projects
+    - title: Research Intern
+      institution: Politecnico di Milano, Milan, Italy
+      year: 2019
+      description:
+        - Specialized in biomedical signal acquisition and analysis (EEG, ECG, PPG, EDA, and eye tracking) in diverse applications.
+        - Physiological monitoring during VR-based therapeutic applications for neurodevelopmental disorders.
+        - Analyzed biomedical signals for biomarketing applications.
+
+    - title: Support Engineer
+      workplace: Lutech, Milan, Italy
+      year: 2015
+      description:
+        - Provided technical support within the deployment of an EHR framework for hospital staff.
+
+    - title: Visiting Student
+      institution: Università di Milano, Milan, Italy
+      year: 2015
+      description:
+        - Modified, tested, and evaluated machine learning algorithms for CT image segmentation.
+        - Performed statistical analysis on automatic vs user-operated methods.
+
+- title: Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2023
+      items: "<b style='font-weight: 900;'>Nomination</b> for Best PhD Thesis Prize, Université Côte d'Azur"
+    - year: 2021
+      items:
+        - "<b style='font-weight: 900;'>Public Award</b> 3-Minute Thesis Contest, IEEE International Symposium on Biomedical Imaging"
+        - "<b style='font-weight: 900;'>Best Poster Award</b>, 4th Congress of the Physiology and Integrative Biology French Society"
+        - "<b style='font-weight: 900;'>Winner</b> MSCA Falling Walls Lab 2021 – Listed among the 75 Emerging Talents worldwide at the Falling Walls Finale 2021"
+        - "<b style='font-weight: 900;'>Excellence Prize</b> Université Côte d'Azur"
 
-- title: Honors and Awards
+- title: Funding
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
+      items: "<b style='font-weight: 900;'>Quebec Bio-Imaging Network grant</b> for Pilot Projects (20.000$)"
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "<b style='font-weight: 900;'>Horizon 2020 Marie Sklodowska-Curie Actions COFUND</b> doctoral scholarship (15 selected students over 500 applicants)"
+    - year: 2017
       items:
-        - Max Planck Medal
+        - "<b style='font-weight: 900;'>Merit scholarship</b> for master thesis abroad, Politecnico di Milano"
+        - "<b style='font-weight: 900;'>Erasmus+ mobility scholarship</b> (2 spots for KTH for Biomedical Engineering), Politecnico di Milano"
 
-- title: Academic Interests
-  type: nested_list
+- title: Talks and Presentations
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2024
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "<b style='font-weight: 900;'>Oral talk</b> - Biennial meeting of the Society of Functional Near-Infrared Spectroscopy (SfNIRS). <i>Enhancing Cerebellar fNIRS/fMRI via Tailored Pipelines</i>"
+        - "<b style='font-weight: 900;'>Invited talk</b> - RWTH-NIRx fNIRS workshop: from best practices to high-end applications. <i>Simultaneous fNIRS/fMRI exploration of the cerebellum</i>"
+    - year: 2022
       items:
-        - Description 1.
-        - Description 2.
+        - "<b style='font-weight: 900;'>Poster presentation</b> - Biennial meeting of the Society of Functional Near-Infrared Spectroscopy (SfNIRS). <i>Densifying Optodes Montage to Enhance Cerebellar fNIRS</i>"
+        - "<b style='font-weight: 900;'>Poster presentation</b> - 19<sup>th</sup> IEEE International Symposium on Biomedical Imaging (ISBI). <i>When fNIRS meets fMRI to complement cerebellar exploration</i>"
+    - year: 2021
+      items:
+        - "<b style='font-weight: 900;'>Poster presentation</b> - 4<sup>th</sup> Congress of the Physiology and Integrative Biology French Society. <i>Asymmetries in Cerebellar Activation during Finger Movements: A Functional Near-Infrared Spectroscopy Study</i>"
+        - "<b style='font-weight: 900;'>Paper presentation</b> - 43<sup>rd</sup> IEEE Engineering in Medicine and Biology Society (EMBC). <i>A chiral fNIRS spotlight on cerebellar activation in a finger tapping task</i>"
+        - "<b style='font-weight: 900;'>Paper presentation</b> - 43<sup>rd</sup> IEEE Engineering in Medicine and Biology Society (EMBC). <i>Single-Trial Detection of Event-Related Potentials with Integral Shape Averaging: An Application to the Elusive N400</i>"
+        - "<b style='font-weight: 900;'>Poster presentation</b> - 18<sup>th</sup> IEEE International Symposium on Biomedical Imaging (ISBI). <i>Exploring the cerebellum with functional near-infrared imaging: a preliminary study</i>"
 
-- title: Other Interests
-  type: list
+    - year: 2021
+      items:
+        - "<b style='font-weight: 900;'>Paper presentation</b> - 42<sup>nd</sup> IEEE Engineering in Medicine and Biology Society (EMBC). <i>Exploration of the physiological response to an online gambling task by frequency domain analysis of the electrodermal activity</i>"
+        - "<b style='font-weight: 900;'>Poster presentation</b> - SophI.A Summit. <i>P300 event-related potentials classification from EEG data through interval feature extraction and recurrent neural networks</i>"
+
+- title: Skills
+  type: list_groups
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - category: "Programming"
+      icon: "fas fa-laptop-code"
+      items:
+        - name: Matlab
+        - name: Python
+        - name: R
+        - name: C++
+
+    - category: "Neuroimaging Data Analysis"
+      icon: "fas fa-brain"
+      items:
+        - name: "SPM"
+        - name: "Brainstorm - NIRSTORM"
+        - name: Homer3
+        - name: FreeSurfer
+        - name: EEGLAB
+        - name: Fieldtrip
+
+    - category: "Quantitative"
+      icon: "fas fa-chart-line"
+      items:
+        - name: "SPM"
+        - name: "Brainstorm - NIRSTORM"
+        - name: Homer3
+        - name: FreeSurfer
+        - name: EEGLAB
+        - name: Fieldtrip
