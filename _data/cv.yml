@@ -161,9 +161,10 @@
     - category: "Quantitative"
       icon: "fas fa-chart-line"
       items:
-        - name: "SPM"
-        - name: "Brainstorm - NIRSTORM"
-        - name: Homer3
-        - name: FreeSurfer
-        - name: EEGLAB
-        - name: Fieldtrip
+        - name: Time- series analysis
+        - name: Signal and image processing
+        - name: Regression analysis
+        - name: Hypothesis testing
+        - name: Machine learning
+        - name: Inverse problems
+
