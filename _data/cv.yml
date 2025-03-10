@@ -44,50 +44,55 @@
       institution: I3S Laboratory and University Hospital of Nice, France
       year: 2020 - 2023
       description:
-        - Conducted multimodal data collection and analysis using fMRI, fNIRS, and EEG with adults and high-potential children.
-        - Focused on cerebellar function and structure, contributing to multiple publications.
-        - Managed subjects, budgets, and data across multiple institutions.
+        - Conducted multimodal data collection and analysis (fMRI, fNIRS, EEG) to investigate cerebellar activation, resulting in 6 published findings.
+        - Designed and validated non-invasive novel experimental frameworks for studying cerebellum, earning awards for breakthroughs in cerebellar neuroscience.
+        - Led cross-institutional project management, coordinating 50+ subject recruitment, 20K $ budget oversight, and data integrity, while also successfully obtaining two equipment loans from industry to facilitate experiments.
 
     - title: PhD Intern
       workplace: NIRx Medical Technologies, Berlin, Germany
       year: 2022
       description:
-        - Assisted in daily operations within the Customer Success Department.
-        - Documented technical aspects relevant to simultaneous fNIRS and fMRI acquisitions.
+        - Developed a customer-facing document detailing the value proposition of simultaneous fNIRS/fMRI, including hardware and software summaries, and drafted a video plan fordata analysis software promotion.
 
     - title: Visiting Researcher
       institution: Concordia University, Montreal, Canada
       year: 2022
       description:
-        - Led data collection and management for multimodal neuroimaging projects.
-        - Analyzed data using advance methods for source reconstruction (inverse problems).
+        - Led data collection and management for multimodal neuroimaging projects involving 30 participants and 300+ recordings.
+        - Pioneered a computational framework for cerebellar fNIRS image reconstruction, effectively solving forward and inverse problems.
 
     - title: Teaching Assistant
       institution: Université Côte d'Azur, Nice, France
       year: 2020
       description:
-        - Assisted in teaching Algorithms & Programming with R through practical sessions and assignments.
+        - Taught Algorithms & Programming with R to 30+ students, delivering practical sessions and project-based assignments.
 
     - title: Research Intern
       institution: Politecnico di Milano, Milan, Italy
       year: 2019
       description:
-        - Specialized in biomedical signal acquisition and analysis (EEG, ECG, PPG, EDA, and eye tracking) in diverse applications.
-        - Physiological monitoring during VR-based therapeutic applications for neurodevelopmental disorders.
-        - Analyzed biomedical signals for biomarketing applications.
+        - Analyzed biomedical signals (EEG, ECG, PPG, EDA, eye tracking) for emotion and stress detection, developing novel indices for biomedical and biomarketing applications.
+        - Contributed to multidisciplinary VR therapy research for neurodevelopmental disorders, managing physiological monitoring and data analysis to drive insights.
+        - Conducted a comparative analysis of two popular wearable devices and a clinical-grade ECG, revealing significant variations in inter-beat-interval accuracy.
+    
+    - title: Visiting Scholar
+      institution: KU Leuven Audio Engineering, Leuven, Belgium
+      year: 2017-2018
+      description:
+        - Design and implementation of a novel language-independent speech intelligibility test for hearing screening, resulting in 3 publications.
+        - Characterized speech stimuli intelligibility and psychometric functions with different noise realizations.
 
     - title: Support Engineer
       workplace: Lutech, Milan, Italy
       year: 2015
       description:
-        - Provided technical support within the deployment of an EHR framework for hospital staff.
+        - Resolved technical issues and provided immediate support to operating room staff during the EHR framework deployment, minimizing disruptions and maximizing efficiency.
 
     - title: Visiting Student
       institution: Università di Milano, Milan, Italy
       year: 2015
       description:
-        - Modified, tested, and evaluated machine learning algorithms for CT image segmentation.
-        - Performed statistical analysis on automatic vs user-operated methods.
+        - Validated and optimized machine learning algorithms for CT image segmentation, achieving a correlation of over 0.9 with manual methods and reducing processing time by 53%.
 
 - title: Awards
   type: time_table
@@ -146,6 +151,7 @@
         - name: Matlab
         - name: Python
         - name: R
+        - name: Git
         - name: C++
 
     - category: "Neuroimaging Data Analysis"
