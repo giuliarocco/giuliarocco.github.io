@@ -9,6 +9,10 @@ display_categories: [PhD, Pre-doctoral]
 horizontal: false
 ---
 
+<h3 style="color:#0076df">Postdoctoral</h3>
+
+**Combining MRI and optical spectroscopy to map microvascular function and oxygen metabolism in healthy and diseased brain**. Energetic dysfunction accompanies the most common brain diseases, including dementia, stroke and neuroinflammatory conditions such as Multiple Sclerosis (MS), for which the altered tissue physiology is suggested to be linked to the brain’s inflammatory status, tissue dysfunction and ultimately, tissue damage. Brain tissue energy supply and consumption have strong potential to be clinically informative in characterising disease states and guiding the development of new treatments. Calibrated fMRI approaches, based on combining blood oxygenation level dependent (BOLD) and arterial spin labelling (ASL) cerebral blood flow (CBF) measurements, can quantitatively map cerebrovascular function and the cerebral metabolic rate of oxygen. Our overall aim is to develop and validate minimally invasive MRI and demonstrate the potential of non-invasive optical imaging tools for mapping oxygen metabolism and cerebral microvascular function in the healthy and inflamed brain. Finally, a clinical proof-of-concept study will be performed to quantify energetic dysfunction in the MS brain.
+
 <h3 style="color:#0076df">Doctoral</h3>
 
 **Simultaneous cerebellar fNIRS and fMRI recordings**. This study pioneers the simultaneous measurement of fNIRS and fMRI signals with a standard grid montage in the cerebellum and motor cortex during a finger-tapping task. We demonstrated strong spatial and temporal correlations between these modalities and identified clear task-evoked responses. This work highlights the importance of data processing pipelines in multimodal neuroimaging, and introduces a unique pipeline that leverages data from both fNIRS and fMRI to improve signal analysis. We observed significant differences in cerebellum analysis when using different GLM pipelines.
