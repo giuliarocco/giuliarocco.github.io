@@ -6,40 +6,20 @@
     - name: Title
       value: PhD, Multimodal Neuroimaging & Signal Processing Expert
     - name: Email
-      value: giuliarocco209@gmail.com
+      value: giulia.rocco@unich.it
     - name: Languages
       value: Italian (Native), English (Fluent), French (Fluent)
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD Marie Curie Fellow in Automatics, Signal and Image Processing
-      institution: Université Côte d'Azur, Nice, France
-      year: 2020 - 2023
-      maindescription: "Thesis title: Multimodal Functional Exploration of the Cerebellum"
-
-    - title: Master Thesis Abroad
-      institution: Katholieke Universiteit Leuven, Leuven, Belgium
-      year: 2017 - 2018
-      maindescription: "Thesis title: Design and implementation of a language-independent speech intelligibility test"
-
-    - title: Exchange Program Erasmus+
-      institution: Kungliga Tekniska Högskolan, Stockholm, Sweden
-      year: 2016 - 2017
-
-    - title: Master’s Degree in Biomedical Engineering - Technologies for Electronics
-      institution: Politecnico di Milano, Milan, Italy
-      year: 2015 - 2018
-      maindescription: "Grade: 110/110"
-
-    - title: Bachelor’s Degree in Biomedical Engineering
-      institution: Politecnico di Milano, Milan, Italy
-      year: 2012 - 2015
-      maindescription: "Thesis title: Validation and Automated Hard Tissue Segmentation for CBCT Data - Grade: 102/110"
 
 - title: Work Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: Institute for Advanced Biomedical Technologies (ITAB), Chieti, Italy
+      year: 2025 - Ongoing
+      description:
+        - Combining MRI and optical imaging to map microvascular function and oxygen metabolism in healthy and diseased brain.
+
     - title: Graduate Research Assistant
       institution: I3S Laboratory and University Hospital of Nice, France
       year: 2020 - 2023
@@ -93,6 +73,34 @@
       year: 2015
       description:
         - Validated and optimized machine learning algorithms for CT image segmentation, achieving a correlation of over 0.9 with manual methods and reducing processing time by 53%.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Marie Curie Fellow in Automatics, Signal and Image Processing
+      institution: Université Côte d'Azur, Nice, France
+      year: 2020 - 2023
+      maindescription: "Thesis title: Multimodal Functional Exploration of the Cerebellum"
+
+    - title: Master Thesis Abroad
+      institution: Katholieke Universiteit Leuven, Leuven, Belgium
+      year: 2017 - 2018
+      maindescription: "Thesis title: Design and implementation of a language-independent speech intelligibility test"
+
+    - title: Exchange Program Erasmus+
+      institution: Kungliga Tekniska Högskolan, Stockholm, Sweden
+      year: 2016 - 2017
+
+    - title: Master’s Degree in Biomedical Engineering - Technologies for Electronics
+      institution: Politecnico di Milano, Milan, Italy
+      year: 2015 - 2018
+      maindescription: "Grade: 110/110"
+
+    - title: Bachelor’s Degree in Biomedical Engineering
+      institution: Politecnico di Milano, Milan, Italy
+      year: 2012 - 2015
+      maindescription: "Thesis title: Validation and Automated Hard Tissue Segmentation for CBCT Data - Grade: 102/110"
+
 
 - title: Awards
   type: time_table
