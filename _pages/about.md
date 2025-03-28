@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Researcher | Multimodal Neuroimaging & Signal Processing Expert
+subtitle: Postdoctoral Researcher | Multimodal Neuroimaging & Signal Processing Expert
 
 profile:
   align: right
@@ -25,7 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<img src="{{ site.baseurl }}/assets/img/mail.png" alt="Icon" width="20"> <giuliarocco209@gmail.com>
+:round_pushpin: Institute for Advanced Biomedical Technologies (University of Chieti-Pescara, Italy)
+
+<img src="{{ site.baseurl }}/assets/img/mail.png" alt="Icon" width="20"> <giulia.rocco@unich.it>
+ 
 
 I am a biomedical engineer specializing in non-invasive **neuroimaging** and **biomedical signal processing** for functional brain mapping using functional Near-Infrared Spectroscopy (**fNIRS**), functional Magnetic Resonance Imaging (**fMRI**), and Electroencephalography (**EEG**).
 
@@ -34,6 +37,8 @@ As a **Marie Curie Doctoral Fellow** at Université Côte d’Azur (France), I c
 My experience spans leading **international research** institutions, including Politecnico di Milano (Italy) and Concordia University (Canada), and diverse domains, from **neuroscience** to **psychophysics** and **wearable** technology. I have contributed to projects that have implemented novel speech intelligibility tests, assessed heart rate variability, electrodermal activity and eye tracking for applications ranging from stress and emotion detection to biomarketing and virtual-reality-based therapy.
 
 Proficient in **multimodal data analysis**, I use advanced quantitative methods, including high-dimensional **time-series** modeling, **frequency domain** analysis, **regression models**, and **inverse problems** for **source reconstruction**. I am a fast learner with a proven ability to design and execute complex **experimental research** studies across **interdisciplinary teams**.
+
+My current research at the [Institute for Advanced Biomedical Technologies](http://www.itab.unich.it/) involves the use of calibrated fMRI approaches and optical imaging to map cerebrovascular function and oxygen metabolism in healthy and diseased brain.
 
 <!-- Passionate about science communication, I deliver talks, workshops, and presentations, making complex scientific topics accessible to diverse audiences. I effectively communicate technical concepts, engaging with academic and non-specialist communities to foster scientific and industrial collaboration. -->
 
