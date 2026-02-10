@@ -18,7 +18,8 @@
       institution: Institute for Advanced Biomedical Technologies (ITAB), Chieti, Italy
       year: 2025 - Ongoing
       description:
-        - Combining MRI and optical imaging to map microvascular function and oxygen metabolism in healthy and diseased brain.
+        - Combined MRI and optical imaging to map microvascular function and oxygen metabolism in healthy and diseased brain.
+        - Coordinated cross-institutional workflows, streamlining scientific and administrative milestones to ensure project deadlines were met.
 
     - title: Graduate Research Assistant
       institution: I3S Laboratory and University Hospital of Nice, France
@@ -130,6 +131,14 @@
 - title: Talks and Presentations
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - "<b style='font-weight: 900;'>Poster presentation</b> - International Society for Magnetic Resonance in Medicine (ISMRM). <i>Simultaneous gas-free calibrated fMRI and fNIRS measurements in human visual cortex: a feasibility study</i>"
+ 
+    - year: 2025
+      items:
+        - "<b style='font-weight: 900;'>Poster presentation</b> - fNIRS UK Biennial meeting. <i>Simultaneous fNIRS, BOLD, and CBF Measurements on the Visual Cortex: a feasibility study</i>"
+        - "<b style='font-weight: 900;'>Poster presentation</b> - fNIRS Italy Biennial meeting. <i>Toward simultaneous calibrated fMRI and fNIRS acquisitions: a case study in the visual cortex</i>"
     - year: 2024
       items:
         - "<b style='font-weight: 900;'>Oral talk</b> - Biennial meeting of the Society of Functional Near-Infrared Spectroscopy (SfNIRS). <i>Enhancing Cerebellar fNIRS/fMRI via Tailored Pipelines</i>"
@@ -158,6 +167,7 @@
       items:
         - name: Matlab
         - name: Python
+        - name: Bash
         - name: R
         - name: Git
         - name: C++
@@ -166,6 +176,8 @@
       icon: "fas fa-brain"
       items:
         - name: "SPM"
+        - name: FreeSurfer
+        - name: FSL
         - name: "Brainstorm - NIRSTORM"
         - name: Homer3
         - name: FreeSurfer
