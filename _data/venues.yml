@@ -4,9 +4,13 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
+  
+"ISMRM":
+  color: "#f527bb"
+
+"JCBFM":
   color: "#009f36"
-  url: https://journals.aps.org/
+#  url: https://journals.aps.org/
 
 "pHealth":
   color: "#0ac84d"
