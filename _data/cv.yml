@@ -137,8 +137,9 @@
   contents:
     - year: 2026
       items:
+        - "<b style='font-weight: 900;'>Invited lecture</b> - Course: Methods for Multimodal Functional Evaluation of the CNS, Politecnico di Milano. <i>A perspective on simultaneous fNIRS/fMRI brain measurements</i>" 
         - "<b style='font-weight: 900;'>Poster presentation</b> - International Society for Magnetic Resonance in Medicine (ISMRM). <i>Simultaneous gas-free calibrated fMRI and fNIRS measurements in human visual cortex: a feasibility study</i> - Selected for <b> Power Pitch </b> at the Brain Function Study Group"
- 
+
     - year: 2025
       items:
         - "<b style='font-weight: 900;'>Poster presentation</b> - fNIRS UK Biennial meeting. <i>Simultaneous fNIRS, BOLD, and CBF Measurements on the Visual Cortex: a feasibility study</i>"
