@@ -16,7 +16,7 @@ Data acquisition is currently ongoing.
 
 **Diffuse optics and magnetic resonance imaging for the multimodal assessment of brain neuronal,hemodynamic and metabolic activity**. Our vision is to integrate diffuse optical imaging and MRI, acquiring continuous-wave fNIRS within the MRI scanner during BOLD-ASL calibrated fMRI recordings at rest and during a task. We have two main aims: (i) validate approaches for optical registration to MRIs; (ii) investigate how optical and MRI signals of brain activity, hemodynamics and oxygen metabolism interact in time and space, exploring the added value of the multimodal framework in understanding brain regional functioning.
 
-[publication]({{ '/assets/pdf/ISMRM_2026_GR.pdf' | relative_url }}) (Journal publication in progress)
+[publication]({{ '/assets/pdf/1-s2.0-S1053811926006051-main.pdf' | relative_url }})
 
 <h3 style="color:#0076df">Doctoral</h3>
 
