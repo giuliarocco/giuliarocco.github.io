@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+- **Quantifying Neurovascular Coupling: A Multimodal fNIRS-fMRI Workshop (Theory, Data, and Challenges)**, educational mini-course at the International fNIRS conference, _University of Macau_. 2026
+
 - **Applied Physics**, Bachelor Degree in Biomedical Engineering, _University of Chieti-Pescara_. 2026
 
 - **Bioengineering and Movement Biomechanics**, Bachelor Degree in Biomedical Engineering, _University of Chieti-Pescara_. 2026
